@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+pyvista
+deinterf
+sgl2020
+tqdm
+metalpy[complete] @ git+https://github.com/MetallyInduced/metalpy.git
+contextily
+geopandas
+plotly
+imageio[ffmpeg]
