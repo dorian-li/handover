@@ -12,3 +12,4 @@ contextily
 geopandas
 plotly
 imageio[ffmpeg]
+dvmss @ git+https://github.com/dorian-li/dvmss.git
